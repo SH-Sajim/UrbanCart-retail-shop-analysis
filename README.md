@@ -16,7 +16,10 @@ sales performance, customer behavior, and cross-selling opportunities using SQL.
 • Observed seasonal patterns in order volume and customer demand
 • Evaluated payment method preferences and their impact on order completion and order value
 
-## Project Files
-- `report/UrbanCart_Retail_Analysis.pdf` – Final analysis report
-- `sql/urbancart_queries.sql` – SQL queries used for analysis
+## 📄 Project Report (Full PDF)
+
+Click below to view the complete analysis report directly on GitHub:
+
+👉 **[View Full UrbanCart Retail Analysis Report](UrbanCart_Retail_Analysis.pdf)**
+
 
