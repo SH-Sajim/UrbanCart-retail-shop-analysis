@@ -16,10 +16,11 @@ sales performance, customer behavior, and cross-selling opportunities using SQL.
 • Observed seasonal patterns in order volume and customer demand
 • Evaluated payment method preferences and their impact on order completion and order value
 
-📄 Project Report (Scrollable PDF)
+## 📄 Project Report (Viewable PDF)
 
-👉 View the full report here:
-https://sh-sajim.github.io/UrbanCart-retail-shop-analysis/UrbanCart%20Report.pdf
+👉 View the full UrbanCart Retail Analysis Report here:  
+https://sh-sajim.github.io/UrbanCart-retail-shop-analysis/report/UrbanCart%20Report.pdf
+
 
 
 
