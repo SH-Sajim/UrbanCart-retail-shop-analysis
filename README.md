@@ -11,7 +11,7 @@ This project analyzes UrbanCart’s sales and customer data to assess overall bu
 
 ## 🔧 Tools & Technologies
 - SQL (PostgreSQL)
-- Excel & Google Sheet for data visualization
+- Excel & Google Sheet for Data Visualization
 - Data Modeling - Star Schema
 - Exploratory Data Analysis
 
@@ -32,5 +32,6 @@ The complete analysis and findings are available in the full project report:
 
 👉 **View the full report here:**  
 https://sh-sajim.github.io/UrbanCart-retail-shop-analysis/report/UrbanCart%20Report.pdf
+
 
 
