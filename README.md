@@ -9,6 +9,38 @@ This project analyzes UrbanCart’s sales and customer data to assess overall bu
 
 ---
 
+## 🎯 Objectives
+
+- Analyze customer purchasing behavior
+- Evaluate category performance
+- Identify top customers
+- Discover peak sales periods
+
+---
+
+## 🚀 Skills Demonstrated
+
+- Business-focused querying
+- Analytical thinking
+- Customer segmentation
+- Performance analysis
+- Advanced SQL logic
+
+---
+
+## 🧠 SQL Concepts Used
+
+- Filtering with `WHERE`
+- `GROUP BY` aggregations
+- Date extraction functions
+- `CASE` statements
+- CTEs (Common Table Expressions)
+- Window functions (`RANK`)
+- Subqueries
+- `DISTINCT` analysis
+
+---
+
 ## 🔧 Tools & Technologies
 - SQL (PostgreSQL)
 - Excel & Google Sheet for Data Visualization
